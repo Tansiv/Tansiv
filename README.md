@@ -1,176 +1,240 @@
-
-# Hi there, I'm Tansiv Jubayer 👋
-
 <div align="center">
 
-### Data Analyst | Machine Learning Developer | Published Research Author
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tansiv%20Jubayer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Developer%20%7C%20Published%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tansiv.github.io/Resume_website/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tansivr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Springer](https://img.shields.io/badge/Springer-Research-blue?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com)
-[![IEEE](https://img.shields.io/badge/IEEE-Publications-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Transforming+Data+into+Decisions+%F0%9F%93%8A;4+Published+Papers+%7C+IEEE+%26+Springer+%F0%9F%93%9D;Building+AI+Systems+that+Matter+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tansiv&color=brightgreen&style=flat-square)
+<!-- Profile Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tansiv&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Publications-4%20Papers-E74C3C?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-00C897?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🪪 Identity Card
 
-I'm a **Computer Science graduate** from East West University specializing in **Data Analytics** and **Machine Learning**. With **4 internationally published research papers** (Springer & IEEE), I transform complex data into actionable insights and build intelligent systems that solve real-world problems.
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-```python
-class TansivJubayer:
-    def __init__(self):
-        self.name = "Tansiv Jubayer"
-        self.role = "Data Analyst & ML Developer"
-        self.location = "Dhaka, Bangladesh"
-        self.education = "B.Sc. in Computer Science & Engineering"
-        self.publications = 4  # Springer (2) + IEEE (2)
-        
-    def current_focus(self):
-        return [
-            "Deep Learning for Computer Vision",
-            "Time Series Forecasting & Predictive Analytics",
-            "Natural Language Processing & Text Mining",
-            "Sustainable Energy Data Analysis"
-        ]
-    
-    def say_hi(self):
-        print("Let's connect and build something amazing together!")
-
-me = TansivJubayer()
-me.say_hi()
+```yaml
+Name        : Tansiv Jubayer
+Role        : Data Analyst & ML Developer
+Location    : Khilgaon, Dhaka, Bangladesh
+Email       : jtansiv@gmail.com
+Phone       : +880 1837011572
+Experience  : 2+ Years (Research & Projects)
+Publications: 4 (IEEE × 2 | Springer × 2)
+Status      : Open to Opportunities ✅
 ```
+
+</td>
+<td width="40%" align="center" valign="top">
+
+### 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tansiv.github.io/Tansiv_Jubayer_portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tansiv-jubayer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tansiv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtansiv@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![Springer](https://img.shields.io/badge/Springer-0070C0?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Professional Summary
+
+<div align="center">
+<blockquote>
+<i>"Data Science and Machine Learning professional with 2+ years of research and project experience in predictive modeling, deep learning, and data analytics. Proven expertise in building end-to-end ML pipelines, analyzing large datasets, and deploying high-performance models. Co-author of 4 IEEE and Springer publications. Skilled across Data Science, Data Analysis, Data Engineering, and AI development workflows."</i>
+</blockquote>
+</div>
+
+---
+
+## 🎓 Education
+
+<table width="100%">
+<thead>
+<tr>
+<th>🏛️ Degree</th>
+<th>🏫 Institution</th>
+<th>📅 Year</th>
+<th>📊 GPA / CGPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>BSc in Computer Science & Engineering</b></td>
+<td>East West University, Dhaka</td>
+<td>2025</td>
+<td><code>2.66 / 4.00</code></td>
+</tr>
+<tr>
+<td><b>Higher Secondary Certificate (HSC)</b></td>
+<td>Ideal College, Dhanmondi</td>
+<td>2020</td>
+<td><code>4.50 / 5.00</code></td>
+</tr>
+<tr>
+<td><b>Secondary School Certificate (SSC)</b></td>
+<td>Motijheel Model School and College</td>
+<td>2018</td>
+<td><code>4.50 / 5.00</code></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## 🔬 Research & Publications
 
-### 📚 Published Research Papers
+> 📌 **4 Internationally Peer-Reviewed Papers** | IEEE (×2) + Springer (×2)
 
-**1. Detection of Sugarcane Leaf Diseases** | *Springer 2024* | ICIDA 2024
-- Developed **deep learning models** for automated agricultural disease detection
-- Implemented **CNN architectures** for real-time crop disease classification
-- **Impact:** Enhanced precision agriculture through AI-driven diagnostics
+<details open>
+<summary><b>⚡ 01 — Forecasting of Sustainable & Green Energy Demand Across Bangladesh</b></summary>
+<br/>
 
-**2. Earthquake Magnitude Prediction** | *Springer 2025*
-- Comprehensive analysis of **machine learning algorithms** for disaster prediction
-- Evaluated multiple regression models for seismic activity forecasting
-- **Impact:** Contributing to early warning systems for disaster management
+**Published:** IEEE COMPAS 2025 &nbsp;|&nbsp; [![IEEE](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11381781)
 
-**3. REMP: Classifying Rare & Endangered Medicinal Plants** | *IEEE 2025* | QPAIN 2025
-- Implemented **transformer architecture** for endangered species conservation
-- Built classification system for biodiversity preservation
-- **Impact:** Supporting environmental conservation through AI technology
+Built an end-to-end time-series energy demand forecasting pipeline using **LSTM** and **XGBoost** on 10,000+ records, improving prediction accuracy by **15%** through advanced time-based feature engineering.
 
-**4. Forecasting of Sustainable and Green Energy Demand Across Bangladesh** | *IEEE 2025* | COMPAS 2025
-- Analyzed **sustainable energy forecasting models** for national energy planning
-- Applied time series analysis and predictive modeling techniques
-- **Impact:** Supporting Bangladesh's transition to renewable energy
+`Time Series` `LSTM` `XGBoost` `Energy Analytics` `Feature Engineering`
 
----
+</details>
 
-## 💼 Technical Expertise
+<details open>
+<summary><b>🌾 02 — Detection of Sugarcane Leaf Diseases Using Deep Learning</b></summary>
+<br/>
 
-### 🧠 Machine Learning & AI
-```
-Deep Learning • Computer Vision • NLP • Time Series Analysis
-Predictive Modeling • Statistical Modeling • Feature Engineering
-```
+**Published:** Springer ICIDA 2024 &nbsp;|&nbsp; [![Springer](https://img.shields.io/badge/Read_Paper-Springer-0070C0?style=flat-square&logo=springer)](https://link.springer.com/chapter/10.1007/978-981-96-6303-3_20)
 
-### 📊 Data Analysis & Visualization
-```
-Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL
-Data Mining • ETL Processes • Statistical Analysis
-Power BI • Tableau • Excel Advanced Analytics
-```
+Trained a **ResNet50-based CNN** on 5,000+ agricultural images using transfer learning, achieving **92% accuracy** and improving robustness by **30%** through data augmentation and hyperparameter tuning.
 
-### 💻 Programming & Databases
-```
-Languages: Python, Java, JavaScript, SQL, HTML, CSS
-Frameworks: TensorFlow, Keras, Scikit-learn, Flask, React
-Databases: MySQL, MongoDB, PostgreSQL
-Tools: Git, Jupyter, VS Code, Google Colab
-```
+`CNN` `ResNet50` `Transfer Learning` `Computer Vision` `Agriculture AI`
 
-### 📈 Domain Knowledge
-```
-Data Processing • Market Research • Digital Image Processing
-Project Management • Information Systems Analysis
-Business Intelligence • Data-Driven Decision Making
-```
+</details>
+
+<details open>
+<summary><b>🌍 03 — Earthquake Magnitude Prediction Using Machine Learning</b></summary>
+<br/>
+
+**Published:** Springer 2025 &nbsp;|&nbsp; [![Springer](https://img.shields.io/badge/Read_Paper-Springer-0070C0?style=flat-square&logo=springer)](https://link.springer.com/chapter/10.1007/978-981-96-6303-3_42)
+
+Conducted comparative analysis of ML models for time-series seismic prediction, improving reliability through feature engineering and evaluation using **RMSE/MAE** metrics. Contributed to research design and methodology.
+
+`Seismic Forecasting` `ML Comparison` `RMSE/MAE` `Disaster AI` `Feature Engineering`
+
+</details>
+
+<details open>
+<summary><b>🌿 04 — REMP: Classifying Rare & Endangered Medicinal Plants</b></summary>
+<br/>
+
+**Published:** IEEE QPAIN 2025 &nbsp;|&nbsp; [![IEEE](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11171802)
+
+Implemented a **Swin Transformer**-based image classification model on high-resolution plant datasets, improving precision by **10–12%** over CNN baselines through attention mechanisms and optimized PyTorch training pipelines.
+
+`Swin Transformer` `Vision AI` `PyTorch` `Conservation` `Biodiversity`
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills Dashboard
 
-### 🌾 [Sugarcane Disease Detection System](https://github.com/Tansiv/sugarcane-disease-detection)
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, Flask  
-**Published:** Springer ICIDA 2024
+<div align="center">
 
-Deep learning-based system for automated detection of sugarcane leaf diseases using convolutional neural networks. Achieved 94% accuracy in classifying multiple disease types, enabling farmers to take early preventive measures.
+### Languages & Frameworks
 
-**Key Features:**
-- Real-time disease classification from leaf images
-- Web-based interface for easy farmer access
-- Multi-class disease detection with confidence scores
-- Comprehensive dataset of 10,000+ labeled images
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### ML / DL Frameworks
 
-### 🌍 [Earthquake Magnitude Prediction Model](https://github.com/Tansiv/earthquake-prediction)
-**Tech Stack:** Python, Scikit-learn, Pandas, XGBoost, LSTM  
-**Published:** Springer 2025
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0071C5?style=for-the-badge&logo=xgboost&logoColor=white)
 
-Machine learning system for predicting earthquake magnitudes using historical seismic data. Compared 8 different algorithms and achieved RMSE of 0.34 using ensemble methods.
+### Data & Visualization
 
-**Key Features:**
-- Time series analysis of seismic patterns
-- Multi-model ensemble approach for improved accuracy
-- Feature engineering from geographical and temporal data
-- Visualization dashboard for prediction analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+### Databases & Tools
 
-### 🌿 [REMP: Rare & Endangered Medicinal Plants Classifier](https://github.com/Tansiv/remp-plant-classifier)
-**Tech Stack:** Python, PyTorch, Transformers, Vision Transformer (ViT)  
-**Published:** IEEE QPAIN 2025
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Transformer-based classification system for identifying rare and endangered medicinal plants. Implemented state-of-the-art Vision Transformer architecture achieving 96.8% accuracy across 50 plant species.
-
-**Key Features:**
-- Vision Transformer (ViT) implementation
-- Transfer learning with pre-trained models
-- Mobile-friendly deployment for field researchers
-- Comprehensive species database with medicinal properties
-
----
-
-### ⚡ [Bangladesh Green Energy Demand Forecasting](https://github.com/Tansiv/green-energy-forecasting)
-**Tech Stack:** Python, Prophet, ARIMA, LSTM, Plotly  
-**Published:** IEEE COMPAS 2025
-
-Time series forecasting system analyzing sustainable energy demand patterns across Bangladesh. Developed multi-horizon forecasting models supporting national renewable energy transition planning.
-
-**Key Features:**
-- Multi-model forecasting approach (ARIMA, Prophet, LSTM)
-- Regional demand analysis and visualization
-- Seasonal decomposition and trend analysis
-- Interactive dashboards for policy makers
+</div>
 
 ---
 
-### 📊 [Comprehensive Data Analytics Portfolio](https://github.com/Tansiv/data-analytics-portfolio)
-**Tech Stack:** Python, SQL, Power BI, Tableau
+### 🧠 Skill Competency Matrix
 
-Collection of data analysis projects demonstrating end-to-end analytics workflows:
-- Customer segmentation using clustering algorithms
-- Sales forecasting with time series models
-- Market basket analysis for retail optimization
-- A/B testing frameworks for business decisions
+| Domain | Skills | Level |
+|---|---|---|
+| **Programming** | Python, SQL, Java, JavaScript | `████████░░` Advanced |
+| **Machine Learning** | Scikit-learn, XGBoost, Feature Engineering | `████████░░` Advanced |
+| **Deep Learning** | CNN, LSTM, Transformers, ViT, Swin | `███████░░░` Proficient |
+| **Data Analysis** | Pandas, NumPy, EDA, Statistics | `█████████░` Advanced |
+| **Visualization** | Plotly, Seaborn, Power BI, Tableau | `████████░░` Advanced |
+| **NLP** | Text Mining, BERT, Embeddings | `██████░░░░` Intermediate |
+| **Data Engineering** | ETL Pipelines, SQL Optimization | `███████░░░` Proficient |
+
+---
+
+### 🤝 Professional Skills
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+✅ Research & Academic Writing  
+✅ Critical Thinking & Problem Solving  
+✅ Technical Documentation  
+✅ Data-Driven Decision Making  
+
+</td>
+<td width="50%">
+
+✅ Cross-functional Collaboration  
+✅ Analytical Thinking  
+✅ Project Management  
+✅ Presentation & Communication  
+
+</td>
+</tr>
+</table>
+
+**Languages:** English `Fluent` &nbsp;|&nbsp; Bengali `Native`
 
 ---
 
@@ -178,128 +242,177 @@ Collection of data analysis projects demonstrating end-to-end analytics workflow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tansiv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tansiv&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tansiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tansiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tansiv&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tansiv&theme=tokyonight&hide_border=true" width="520"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tansiv&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 GitHub Trophies
 
-### 🏛️ Academic Background
-**Bachelor of Science in Computer Science & Engineering**  
-East West University, Dhaka | *CGPA: 2.62* | 2021-2025
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tansiv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
 
-**Key Coursework:** Artificial Intelligence, Machine Learning, Digital Image Processing, Database Management, Statistics & Probability, IT Project Management, Information System Analysis
+---
 
-### 📜 Professional Certifications
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Data_Analyst-Ostad-4CAF50?style=for-the-badge" /><br/>
-<b>Data Analyst Program</b><br/>
-<i>Ongoing - 2025</i>
+<td width="50%" valign="top">
+
+### ⚡ Green Energy Demand Forecasting
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Tansiv/green-energy-forecasting)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11381781)
+
+Multi-horizon forecasting with ARIMA, Prophet, and LSTM for national renewable energy planning. Built interactive dashboards for policy makers with seasonal decomposition analysis.
+
+`Python` `LSTM` `XGBoost` `Prophet` `Plotly`
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Project_Management-Simplilearn-FF6B6B?style=for-the-badge" /><br/>
-<b>Project Management</b><br/>
-<i>2024</i>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Prompt_Engineering-Simplilearn-9B59B6?style=for-the-badge" /><br/>
-<b>Prompt Engineering & AI</b><br/>
-<i>2024</i>
+<td width="50%" valign="top">
+
+### 🌾 Sugarcane Disease Detection
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Tansiv/sugarcane-disease-detection)
+[![Springer](https://img.shields.io/badge/Springer-Published-0070C0?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-96-6303-3_20)
+
+ResNet50-based CNN achieving 92% accuracy on 5,000+ images. Real-time web interface for field use with confidence scoring and multi-class disease classification.
+
+`TensorFlow` `ResNet50` `OpenCV` `Flask`
+
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/NLP-Simplilearn-3498DB?style=for-the-badge" /><br/>
-<b>NLP & Text Mining</b><br/>
-<i>2024</i>
+<td width="50%" valign="top">
+
+### 🌍 Earthquake Magnitude Prediction
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Tansiv/earthquake-prediction)
+[![Springer](https://img.shields.io/badge/Springer-Published-0070C0?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-96-6303-3_42)
+
+Benchmarked 8 ML algorithms for seismic prediction. Ensemble methods achieved RMSE of 0.34. Full visualization dashboard for magnitude analysis.
+
+`Scikit-learn` `XGBoost` `LSTM` `Pandas`
+
 </td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Published_Author-4_Papers-E74C3C?style=for-the-badge" /><br/>
-<b>Research Publications</b><br/>
-<i>Springer & IEEE</i>
+<td width="50%" valign="top">
+
+### 🌿 REMP: Medicinal Plant Classifier
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Tansiv/remp-plant-classifier)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11171802)
+
+Swin Transformer model achieving 96.8% accuracy across 50 plant species. 10–12% precision boost over CNN baselines. Mobile-optimized for field researchers.
+
+`PyTorch` `Swin Transformer` `ViT` `Transfer Learning`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Key Achievements
+
+<div align="center">
+
+| 🏆 Milestone | 📌 Detail |
+|---|---|
+| 📝 International Publications | 4 Papers — IEEE (×2) + Springer (×2) |
+| 🎯 Model Accuracy | 96.8% — Swin Transformer (Plant Classification) |
+| 🌾 Computer Vision | 92% accuracy on 5,000+ agricultural images |
+| ⚡ Forecasting Gain | +15% accuracy via time-based feature engineering |
+| 📊 Dataset Scale | Worked on datasets up to 10,000+ records |
+| 🤖 Models Deployed | 5+ end-to-end ML models across domains |
+
+</div>
+
+---
+
+## 👨‍🏫 References
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**Dr. Ahmed Wasif Reza**  
+Professor, Dept. of CSE  
+Dean, Faculty of Sciences & Engineering  
+East West University  
+📧 [wasif@ewubd.edu](mailto:wasif@ewubd.edu)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Dr. Maheen Islam**  
+Chairperson & Associate Professor  
+Dept. of Computer Science & Engineering  
+East West University  
+📧 [maheen@ewubd.edu](mailto:maheen@ewubd.edu)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Dr. Raihan Ul Islam**  
+Associate Professor  
+Dept. of Computer Science & Engineering  
+East West University  
+📧 [raihan.islam@ewubd.edu](mailto:raihan.islam@ewubd.edu)
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌱 Current Learning Journey
+## 🌱 Current Learning Roadmap
 
 ```mermaid
 graph LR
-A[Data Analysis] --> B[Advanced ML]
-B --> C[Deep Learning]
-C --> D[MLOps]
-D --> E[Production Systems]
+    A[🧮 Data Analysis] --> B[🤖 Advanced ML]
+    B --> C[🧠 Deep Learning]
+    C --> D[☁️ Cloud & MLOps]
+    D --> E[🏭 Production Systems]
+    E --> F[🔄 Real-time AI]
 ```
 
-🔭 **Currently Working On:**
-- Advanced time series forecasting techniques
-- Deploying ML models to production environments
-- Building end-to-end data pipelines
-- Contributing to open-source ML projects
-
-📚 **Learning:**
-- Cloud platforms (AWS, Azure) for ML deployment
-- Advanced transformer architectures
-- Real-time data processing with Apache Kafka
-- MLOps best practices and model monitoring
+**🔭 Currently Working On:**
+- Advanced transformer architectures for vision and NLP
+- End-to-end data pipelines and MLOps workflows
+- Cloud deployment on AWS / Azure for ML models
+- Real-time processing with Apache Kafka
 
 ---
-
-## 🏆 Key Achievements
-
-🎯 **4 International Research Publications** (Springer & IEEE)  
-📊 **10+ Data Analysis Projects** with real-world impact  
-🤖 **5+ ML Models Deployed** for various domains  
-🌟 **94%+ Accuracy** in computer vision projects  
-📈 **Expert-level** proficiency in Python data ecosystem
-
----
-
-## 💡 What I Offer
-
-As a **Data Analyst & ML Developer**, I bring:
-
-✅ **Research-Backed Expertise** - Published author with proven analytical capabilities  
-✅ **End-to-End Solutions** - From data collection to model deployment  
-✅ **Business Acumen** - Translating technical insights into business value  
-✅ **Problem-Solving Mindset** - Tackling complex challenges with innovative approaches  
-✅ **Continuous Learning** - Staying updated with latest industry trends
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on data science projects, discuss research opportunities, or explore ways to leverage data for positive impact. Feel free to reach out!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://tansiv.github.io/Resume_website/)
-[![Email](https://img.shields.io/badge/📧_Email-tansivr@gmail.com-D14836?style=for-the-badge)](mailto:tansivr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn"/>
+
+### 💬 *"Data is the new oil — but insights are the refined fuel that drives innovation."*
+
+**Open to:** Full-time Data Analyst Roles &nbsp;|&nbsp; ML Research Positions &nbsp;|&nbsp; Collaborative Projects
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://tansiv.github.io/Tansiv_Jubayer_portfolio-website/)
+[![Email](https://img.shields.io/badge/📧_Email-jtansiv@gmail.com-D14836?style=for-the-badge)](mailto:jtansiv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/tansiv-jubayer/)
 [![Phone](https://img.shields.io/badge/📱_Phone-+880_1837011572-25D366?style=for-the-badge)](tel:+8801837011572)
 
-</div>
+⭐️ *If you find my work valuable, consider starring the repositories!* ⭐️
 
----
-
-<div align="center">
-
-### 💭 "Data is the new oil, but insights are the refined fuel that drives innovation."
-
-**Open to:** Full-time Data Analyst roles | ML Research positions | Collaborative projects
-
-⭐️ **If you find my work interesting, consider starring some repositories!** ⭐️
-
-*Last Updated: January 2025*
+*Last Updated: May 2025*
 
 </div>
